@@ -3,3 +3,6 @@ Esta es la prueba de una persona en git con platzi
 Esa persona vive en Andalucia
 
 Y vamos a ver como crear un archivo en el repositoro.
+
+Ya he hecho el prmer commit y estos cambios 
+estoy haciendo en VS seran para un nuevo commit quizas :)
