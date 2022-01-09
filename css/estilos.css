@@ -12,7 +12,7 @@ body
 #cabecera 
 {
   background: #AAF;
-  box-shadow: 0px 2px 20px 0px rgba(rgb(8, 8, 8), green, blue, alpha)
+  box-shadow: 0px 2px 20px 0px rgba(rgb(8, 8, 8));
   color: white;
   font-weight: bold;
   margin: 0;
